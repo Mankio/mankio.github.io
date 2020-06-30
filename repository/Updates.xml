@@ -6,7 +6,7 @@
   <Name>com.vendor.product</Name>
   <DisplayName>Wakfu Builder</DisplayName>
   <Description>Wakfu Builder</Description>
-  <Version>1.0.3-1</Version>
+  <Version>1.0.3-2</Version>
   <ReleaseDate>2020-06-29</ReleaseDate>
   <Default>script</Default>
   <Script>installscript.qs</Script>
