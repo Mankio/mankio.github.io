@@ -10,8 +10,8 @@
   <ReleaseDate>2020-06-29</ReleaseDate>
   <Default>script</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile OS="Any" UncompressedSize="99862915" CompressedSize="37506555"/>
+  <UpdateFile CompressedSize="37506612" OS="Any" UncompressedSize="99862942"/>
   <DownloadableArchives>bearer.7z,iconengines.7z,imageformats.7z,images.7z,json.7z,log.7z,platforminputcontexts.7z,platforms.7z,qmltooling.7z,QtGraphicalEffects.7z,QtQuick.7z,QtQuick.2.7z,resources.7z,save.7z,scenegraph.7z,sqldrivers.7z,styles.7z,translations.7z,virtualkeyboard.7z,content.7z</DownloadableArchives>
-  <SHA1>3b555f561565e1d1efa00bc5387519ab197cc4b1</SHA1>
+  <SHA1>33e0610885e94ba139fd323a387f8de66318c898</SHA1>
  </PackageUpdate>
 </Updates>
